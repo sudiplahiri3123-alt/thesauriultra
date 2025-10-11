@@ -1,0 +1,8 @@
+# Ignore build artifacts in GitHub archive exports
+/_build/ export-ignore
+/deps/ export-ignore
+/erl_crash.dump export-ignore
+/node_modules/ export-ignore
+*.log export-ignore
+
+
